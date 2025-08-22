@@ -2,5 +2,5 @@
 
 calamum
 
-specimen
+specimen.
 
