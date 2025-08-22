@@ -1,6 +1,2 @@
-# hw2736
 
-calamum
-
-specimen.
-
+haec omnia
